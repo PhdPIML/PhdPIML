@@ -8,4 +8,6 @@ I'm a PhD candidate at Stanford University, where my research focuses on artific
 
 Hackathon enthusiast 🛠️ | AI for good advocate 🌍 | Constant learner 📚
 
+(Rust, Dioxus, WASM!)
+
 Let's build the future together!
